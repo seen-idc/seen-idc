@@ -8,3 +8,7 @@
 <a href="https://twitch.tv/seen_idc">
   <img src="https://discord.com/assets/ca71e0b8818221eea1deebbaf8dc6518.svg" width="64" height="64">
 </a>
+
+<a href="https://discord.gg/dBbspZ2CqU">
+  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="71" height="55">
+</a>
