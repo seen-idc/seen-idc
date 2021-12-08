@@ -15,3 +15,7 @@
 <a href="https://discord.gg/dBbspZ2CqU">
   <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64" height="45">
 </a>
+
+<a href="https://twitter.com/seen_val">
+  <img src="https://discord.com/assets/85cf2b49d2a185c98ec8e383ad5a05d6.svg" width="64" height="45">
+</a>
