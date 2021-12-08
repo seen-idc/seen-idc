@@ -2,6 +2,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seen-idc&theme=github_dark&layout=compact"/>
 
 
+
+## Socials
+
 <a href="https://www.youtube.com/channel/UCB_DJKfNs24ogACFh3EuzKg">
   <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="64" height="64">
 </a>
