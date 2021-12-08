@@ -3,7 +3,7 @@
 
 
 <a href="https://www.youtube.com/channel/UCB_DJKfNs24ogACFh3EuzKg">
-  <img src="https://discord.com/assets/57ee9535485efae7eb923ed4893abb57.svg">
+  <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png">
 </a>
 <a href="https://twitch.tv/seen_idc">
   <img src="https://discord.com/assets/ca71e0b8818221eea1deebbaf8dc6518.svg">
