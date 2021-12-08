@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://discord.gg/dBbspZ2CqU">
-  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64" height="45">
+  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64" height="64">
 </a>
 
 <a href="https://twitter.com/seen_val">
