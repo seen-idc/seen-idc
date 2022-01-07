@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/channel/UCB_DJKfNs24ogACFh3EuzKg">
   <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="64" height="64">
 </a>
-<a href="https://twitch.tv/seen_idc">
+<a href="https://twitch.tv/seen_val">
   <img src="https://discord.com/assets/ca71e0b8818221eea1deebbaf8dc6518.svg" width="64" height="64">
 </a>
 
