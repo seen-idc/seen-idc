@@ -19,3 +19,8 @@
 <a href="https://twitter.com/seen_val">
   <img src="https://discord.com/assets/85cf2b49d2a185c98ec8e383ad5a05d6.svg" width="64" height="64">
 </a>
+
+
+- Learnt Javascript and Web Dev
+- Learnt some basic Python
+- Learning Unity Game Dev
